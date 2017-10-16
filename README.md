@@ -141,6 +141,8 @@ Your twoSum method should take two inputs, first is an array of integers, and a 
 twoSum([2, 7, 11, 15], 9)
 ```
   
+If you are done with this problem, figure out and write down the Big-O of your twoSum implementation. Try to solve it in O(N) time and space.
+
  ## 3 Longest Uncommon Subsequence
  
 Given a group of two strings, you need to find the longest uncommon subsequence of this group of two strings. The longest uncommon subsequence is defined as the longest subsequence of one of these strings and this subsequence should not be any subsequence of the other strings.
