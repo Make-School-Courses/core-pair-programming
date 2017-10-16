@@ -1,14 +1,14 @@
 # Pair Programming 
 
 > Pair programming is an agile software development technique in 
-> which two programmers work together at one workstation. One, the 
+> which two programmers work together at one workstation. The 
 > driver, writes code while the other, the observer or navigator, 
-> reviews each line of code as it is typed in. The two programmers 
-> switch roles frequently.
+> reviews each line of code as it is typed in. _The two programmers 
+> switch roles frequently._
 
 ## What is it?
 
-It's a style of committing programming work that focuses on working in 
+It's a style of programming work that focuses on working in 
 pairs. 
 
 ## What are the benefits?
@@ -20,7 +20,7 @@ compared to programmers working individually. Experiments yielded
 diverse results, suggesting increases of between 15% and 100%. However, 
 the resulting code has about 15% fewer defects. 
 
-Pair programming signifcantly increases code quality. 
+_Pair programming signifcantly increases code quality._
 
 #### Design Quality
 
@@ -39,8 +39,8 @@ than a single programmer alone might do.
 #### Satisfaction 
 
 In an online survey of pair programmers, 96% of them stated that they 
-enjoyed their work more than when they programmed alone and 95% said 
-that they were more confident in their solutions when they pair programmed.
+enjoyed their work more than when they programmed **alone** and 95% said 
+that they were **more confident in their solutions** when they pair programmed.
 
 You may not enjoy pairing but, you will feel more confident and find better 
 solutions. 
@@ -48,8 +48,8 @@ solutions.
 #### Learning 
 
 Knowledge is constantly shared between pair programmers, whether in the 
-industry or in a classroom, many sources suggest that students show 
-higher confidence when programming in pairs. 
+industry or in a classroom, many sources suggest that **students show 
+higher confidence when programming in pairs.**
 
 ### Problems with pairing
 
@@ -58,9 +58,9 @@ There are indicators that a pair is not performing well:
 1. Disengagement may present as one of the members physically withdraws 
 away from the keyboard, accesses email, or even falls asleep.
 2. The "Watch the Master" phenomenon can arise if one member is more 
-experienced than the other. In this situation, the junior member may 
+experienced than the other. In this situation, _the junior member may 
 take the observer role, deferring to the senior member of the pair for 
-the majority of coding activity. This can easily lead to disengagement.
+the majority of coding activity._ This can easily lead to disengagement.
 3. **Silence immediately indicates a lack of collaboration.**
 
 ## How does it work? 
@@ -89,11 +89,8 @@ solve the problem at hand.
 
 #### Navigator/Observer
 
-The navigator's job is to 
-
-### Styles of pairing
-
-
+The navigator's job is to watch for errors and offer advice and predict 
+Potential problems that might arise. 
 
 ## Exercises 
 
