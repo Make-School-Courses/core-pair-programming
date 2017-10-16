@@ -134,6 +134,12 @@ The function twoSum should return indices of the two numbers such that they add 
 You may assume that each input would have exactly one solution.
 
 Input: numbers={2, 7, 11, 15}, target=9 Output: index1=0, index2=1
+
+Your twoSum method should take two inputs, first is an array of integers, and a second is the target to sum to:
+
+```python
+twoSum([2, 7, 11, 15], 9)
+```
   
  
 | Time |      | Activity |           |
