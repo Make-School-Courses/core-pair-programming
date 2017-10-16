@@ -78,19 +78,7 @@ using the observer as a safety net and guide.
 3. **Only the driver is at the keyboard.** 
 4. Pairs are **changing roles often.** 
 
-### Roles
-
-Pairing involves two participants with two roles: Driver and Navigator. 
-
-#### Pilot/Driver 
-
-The driver's job is to enter code focussing on writing code to 
-solve the problem at hand. 
-
-#### Navigator/Observer
-
-The navigator's job is to watch for errors and offer advice and predict 
-Potential problems that might arise. 
+You should be changing roles often and passing the keyboard between you. 
 
 ## Exercises 
 
